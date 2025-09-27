@@ -1,0 +1,27 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    gap: 124px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.redbox{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 190px;
+    
+}
